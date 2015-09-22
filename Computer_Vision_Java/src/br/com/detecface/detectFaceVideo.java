@@ -1,3 +1,4 @@
+package br.com.detecface;
 /*
  * Criado pelo Prof. Marcos R. Santos (marcos.santos@imed.edu.br)
  * Aplicado no Projeto HackDay
